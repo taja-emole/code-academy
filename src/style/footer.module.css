@@ -1,0 +1,15 @@
+.main{
+    background-color:black;
+    min-height: 100px;
+    bottom: 0;
+    display: flex;
+    position: absolute;
+    width: 100%;
+    justify-content: center;
+
+    
+}
+
+p {
+    color: black
+}

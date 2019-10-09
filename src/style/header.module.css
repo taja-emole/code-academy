@@ -1,0 +1,16 @@
+
+
+
+div {
+    
+    border: solid whitesmoke;
+    background-color: white;
+    min-height: 70px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    border-left: 0ch;
+    border-right: 0ch;
+    
+}
+
